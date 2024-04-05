@@ -61,7 +61,3 @@ This application uses local storage to save and retrieve todo items. Your todos 
 ## Credits
 
 This application was created by SIDDHANT BANSAL.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
