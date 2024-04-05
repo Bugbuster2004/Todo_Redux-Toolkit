@@ -46,7 +46,7 @@ To run this application locally, follow these steps:
    npm run dev
    ```
 
-5. Open your web browser and visit `http://localhost:3000` to view the application.
+
 
 ## How to Use
 
